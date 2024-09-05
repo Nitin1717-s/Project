@@ -1,4 +1,4 @@
-import serial  # PySerial library to handle serial communication
+import serial  
 import time
 
 # Configure the serial port (adjust 'COM3' to your port)
